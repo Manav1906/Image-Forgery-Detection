@@ -1,4 +1,4 @@
-# Image-Forgery-Detection-Using-Deep-Learning
+# Image Forgery Detection Using Deep Learning
 * Implemented Deep Learning Models Using Image Processing Techniques for the Image
 Forgery Detection.
 * Built a TensorFlow Sequential Model with ELA(Error Level Analysis) Pre-Processing
